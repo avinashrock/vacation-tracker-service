@@ -1,0 +1,1 @@
+insert into leaveOfassociate(userId,startDate,endDate,reason,effective_dt_tm) values(?,?,?,?,?)

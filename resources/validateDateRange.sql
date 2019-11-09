@@ -1,0 +1,1 @@
+select startDate,endDate from leaveOfAssociate where (? between startDate and endDate or ? between startDate and endDate) and userId= ?
